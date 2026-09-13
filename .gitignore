@@ -1,0 +1,16 @@
+# Авторизация и сессии
+browser.json
+chrome_session/
+spotify_browser_profile/
+.env
+
+# Виртуальное окружение
+.venv/
+
+# Служебные файлы IDE
+.idea/
+*.iml
+
+# Текстовые файлы и кэш
+*.txt
+__pycache__/
