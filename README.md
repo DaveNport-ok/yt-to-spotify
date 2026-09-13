@@ -1,10 +1,5 @@
 # 🎧 YouTube Music to Spotify Migrator
 
-[![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
-[![Playwright](https://img.shields.io/badge/Playwright-Automation-2EAD33?style=flat&logo=playwright&logoColor=white)](https://playwright.dev/)
-[![Status](https://img.shields.io/badge/Status-Production--Ready-success?style=flat)]()
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-
 Автоматизированный инструмент для бесшовного переноса аудиотеки из **YouTube Music** в **Spotify**. 
 
 Проект разработан как надежная альтернатива официальному REST API Spotify в условиях жестких ограничений: блокировки сторонних приложений в режиме *Development Mode*, ошибок `429 Too Many Requests` и платного доступа к инструментам разработчика.
